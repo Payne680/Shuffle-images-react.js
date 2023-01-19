@@ -17,7 +17,7 @@ const data = [
     src: "https://images.pexels.com/photos/39857/leopard-leopard-spots-animal-wild-39857.jpeg?auto=compress&cs=tinysrgb&w=600",
     title: "Leopard",
     description:
-      "This peice of art is amazing. I have been learning how to draw for some time now. Men! I bet you, it's not easy. Whenever you see an artist, demonstrate total respect cuz those guys have their own super power",
+      "The leopard is a carnivore that prefers medium-sized prey with a body mass ranging from 10-40 kg (22-88 lb). Prey species in this weight range tend to occur in dense habitat and to form small herds. Species that prefer open areas and have well-developed anti-predator strategies are less preferred.",
     id: 6,
   },
   {

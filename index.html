@@ -13,9 +13,27 @@
   <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>  
   <script src="https://unpkg.com/vanilla-tilt@1.7.0/dist/vanilla-tilt.min.js"></script>
   <script data-type="module" type="text/babel" src="./script.jsx"></script> 
+  
   <style>
     body {
       background-color: #304f47;
+    }
+
+    button {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column;
+      height: 10px;
+      font-size: 70%;
+      font-weight: bold;
+      padding-left: 30px;
+      padding-right: 30px;
+      padding-top: 18px;
+      padding-bottom: 18px;
+      border-radius: 95px;
+      cursor: pointer;
+      bottom: 100px;
     }
     
     summary {
@@ -83,14 +101,14 @@
       gap: 34px 20px;
       flex-wrap: wrap;
       justify-content: center;
-      margin-bottom: 30px;
+      margin-bottom: 10px;
     }
   
     .card {
       width: 300px;
       border: 1px solid transparent;
       border-radius: 8px;
-      box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+      box-shadow: rgba(0, 0, 0, 0.35) 0px 26px 15px;
       background-color: #fff;
     }
 
